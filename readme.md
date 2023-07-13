@@ -8,7 +8,7 @@
 
 ## Installation
 
-* [Android Studio Flamingo](https://nodejs.org/en/)
+* [Android Studio Flamingo](https://developer.android.com/studio)
 * [Configure hardware acceleration for the Android Emulator](https://developer.android.com/studio/run/emulator-acceleration).
 
 ## Contributing
