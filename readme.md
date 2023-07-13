@@ -2,6 +2,10 @@
 
 # see-message-java-mobile
 
+## Download app to your mobile device
+
+* [Google Play Store Link](https://play.google.com/) (See Message Java Mobile is not released to the Google Play Store).
+
 ## Installation
 
 * [Android Studio Flamingo](https://nodejs.org/en/).
