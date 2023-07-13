@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void onBtnClick(View vie) {
+    public void onBtnClick(View view) {
         TextView txtHello = findViewById(R.id.txtMessage);
         EditText editTxtName = findViewById(R.id.editTxtName);
         txtHello.setText("Hello " + editTxtName.getText().toString());
